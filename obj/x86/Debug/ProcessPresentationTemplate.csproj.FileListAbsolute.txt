@@ -1,0 +1,7 @@
+C:\TFS\ProcessPresentationTemplate\obj\x86\Debug\ProcessPresentationTemplate.csprojResolveAssemblyReference.cache
+C:\TFS\ProcessPresentationTemplate\bin\Debug\ProcessPresentationTemplate.exe
+C:\TFS\ProcessPresentationTemplate\bin\Debug\ProcessPresentationTemplate.pdb
+C:\TFS\ProcessPresentationTemplate\bin\Debug\DocumentFormat.OpenXml.dll
+C:\TFS\ProcessPresentationTemplate\bin\Debug\DocumentFormat.OpenXml.xml
+C:\TFS\ProcessPresentationTemplate\obj\x86\Debug\ProcessPresentationTemplate.exe
+C:\TFS\ProcessPresentationTemplate\obj\x86\Debug\ProcessPresentationTemplate.pdb
